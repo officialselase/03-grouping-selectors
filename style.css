@@ -1,0 +1,14 @@
+/* the shared sheet*/
+.shared, .not-shared {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+/* the sheet for button 1*/
+.shared{
+    color: white;
+    background-color: black;
+/*the sheet for button 2*/
+}   
+.not-shared{
+    background-color:"yellow"
+}
